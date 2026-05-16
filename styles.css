@@ -239,6 +239,14 @@ h1 span {
   padding: 1.6rem;
 }
 
+.install-demo {
+  margin: 0.5rem 0 2rem;
+}
+
+.install-frame {
+  margin-top: 0.9rem;
+}
+
 .demo {
   margin-top: 4rem;
 }
